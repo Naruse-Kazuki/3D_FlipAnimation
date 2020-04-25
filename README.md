@@ -2,6 +2,8 @@
 
 3D flip animation.
 
+![Animated GIF-downsized (2)](https://user-images.githubusercontent.com/53788311/80292644-c21ee100-8792-11ea-9905-ce05b24e9ed0.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
